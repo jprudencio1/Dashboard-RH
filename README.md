@@ -21,5 +21,4 @@ Este projeto é um **Dashboard de Recursos Humanos** desenvolvido no **Power BI*
 
 ---
 
-## 📁 Estrutura do projeto
 
